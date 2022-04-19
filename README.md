@@ -13,7 +13,7 @@
 ___
 
 <p>Connect with me 👋</p>
-  <a href="https://instagram.com/Jack_paymon_" target="_blank">
+  <a href="https://instagram.com/Jack_paymon" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
   <a href="https://www.youtube.com/channel/UCTfpv-KmckjC1rwPKqw_t1w" target="_blank">
